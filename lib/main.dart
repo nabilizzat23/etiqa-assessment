@@ -26,7 +26,7 @@ class MyApp extends StatelessWidget {
             //Appbar and Button
             titleLarge: TextStyle(),
             //Todo Title in listview
-            titleMedium: TextStyle(fontSize: 18, fontWeight: FontWeight.w300),
+            titleMedium: TextStyle(fontSize: 18, fontWeight: FontWeight.w500),
             //Label in listview
             labelSmall: TextStyle(
                 fontSize: 14,
