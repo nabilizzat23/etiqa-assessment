@@ -4,10 +4,10 @@
 
 Some minor error occucred when first time run the application, just click continue run to continue with the application
 
-------------The error-------------------------------------------
+------------The error-------------------------------------------\
 Exception has occurred.
 _CastError (Null check operator used on a null value)
-----------------------------------------------------------------
+
 
 I did not find the solution for the error.
 
