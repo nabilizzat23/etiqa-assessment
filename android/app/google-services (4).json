@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "522131753011",
+    "project_id": "etiqa-assessment-9ab1d",
+    "storage_bucket": "etiqa-assessment-9ab1d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:522131753011:android:1838ed7fd7d2e9d8f63b46",
+        "android_client_info": {
+          "package_name": "com.example.etiqa_assestment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "522131753011-updf2l77nf7ogp89bkr5019u4shf08hc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDx-t3yEz_WLv-_TAXJc_R7hx9M635EZKU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "522131753011-updf2l77nf7ogp89bkr5019u4shf08hc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
